@@ -1,0 +1,1532 @@
+DE-Hai_2000-2012_FLUXNET2015_Met.nc file 1 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=4.103118e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+DE-Tha_1998-2014_FLUXNET2015_Met.nc file 2 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=5.364558e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+AU-How_2003-2017_OzFlux_Met.nc file 3 out of 170
+['x', 'y', 'time', 'CO2air', 'CO2air_qc', 'LWdown', 'LWdown_qc', 'SWdown', 'SWdown_qc', 'Precip', 'Precip_qc', 'RH', 'RH_qc', 'Qair', 'Qair_qc', 'Tair', 'Tair_qc', 'VPD', 'VPD_qc', 'Wind', 'Wind_qc', 'Psurf', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=4.733838e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+FI-Sod_2008-2014_FLUXNET2015_Met.nc file 4 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=2.20923e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+FR-Fon_2005-2013_FLUXNET2015_Met.nc file 5 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=2.83995e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+IT-PT1_2003-2004_FLUXNET2015_Met.nc file 6 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=63156600.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+US-Var_2001-2014_FLUXNET2015_Met.nc file 7 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=4.417614e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+PL-wet_2004-2005_LaThuile_Met.nc file 8 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'VPD', 'Qair', 'VPD_qc', 'Precip', 'Precip_qc', 'Wind', 'Wind_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'RH', 'CO2air', 'Psurf', 'RH_qc', 'CO2air_qc', 'LWdown_qc', 'Psurf_qc', 'latitude', 'longitude', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=63156600.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+CH-Dav_1997-2014_FLUXNET2015_Met.nc file 9 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=5.679918e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+NL-Loo_1997-2013_FLUXNET2015_Met.nc file 10 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=5.364558e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+SE-Deg_2002-2005_LaThuile_Met.nc file 11 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'VPD', 'Qair', 'VPD_qc', 'Precip', 'Precip_qc', 'Wind', 'Wind_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'RH', 'CO2air', 'Psurf', 'RH_qc', 'CO2air_qc', 'LWdown_qc', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=1.262286e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+US-Ne3_2002-2012_FLUXNET2015_Met.nc file 12 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=3.471516e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+AU-GWW_2013-2017_OzFlux_Met.nc file 13 out of 170
+['x', 'y', 'time', 'CO2air', 'CO2air_qc', 'LWdown', 'LWdown_qc', 'SWdown', 'SWdown_qc', 'Precip', 'Precip_qc', 'RH', 'RH_qc', 'Qair', 'Qair_qc', 'Tair', 'Tair_qc', 'VPD', 'VPD_qc', 'Wind', 'Wind_qc', 'Psurf', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=1.577646e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+IT-Ren_2010-2013_FLUXNET2015_Met.nc file 14 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=1.262286e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+US-Tw4_2014-2014_FLUXNET2015_Met.nc file 15 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=31534200.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+FR-Pue_2000-2014_FLUXNET2015_Met.nc file 16 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=4.733838e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+AU-Wrr_2016-2017_OzFlux_Met.nc file 17 out of 170
+['x', 'y', 'time', 'CO2air', 'CO2air_qc', 'LWdown', 'LWdown_qc', 'SWdown', 'SWdown_qc', 'Precip', 'Precip_qc', 'RH', 'RH_qc', 'Qair', 'Qair_qc', 'Tair', 'Tair_qc', 'VPD', 'VPD_qc', 'Wind', 'Wind_qc', 'Psurf', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=63156600.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+FR-Lq1_2004-2006_LaThuile_Met.nc file 18 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'VPD', 'Qair', 'VPD_qc', 'Precip', 'Precip_qc', 'Wind', 'Wind_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'RH', 'CO2air', 'Psurf', 'RH_qc', 'CO2air_qc', 'LWdown_qc', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=94692600.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+CN-Du2_2007-2008_FLUXNET2015_Met.nc file 19 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=63156600.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+US-Syv_2002-2008_FLUXNET2015_Met.nc file 20 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=2.20923e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+AU-Tum_2002-2017_OzFlux_Met.nc file 21 out of 170
+['x', 'y', 'time', 'CO2air', 'CO2air_qc', 'LWdown', 'LWdown_qc', 'SWdown', 'SWdown_qc', 'Precip', 'Precip_qc', 'RH', 'RH_qc', 'Qair', 'Qair_qc', 'Tair', 'Tair_qc', 'VPD', 'VPD_qc', 'Wind', 'Wind_qc', 'Psurf', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=5.04918e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+AU-Otw_2009-2010_OzFlux_Met.nc file 22 out of 170
+['x', 'y', 'time', 'CO2air', 'CO2air_qc', 'LWdown', 'LWdown_qc', 'SWdown', 'SWdown_qc', 'Precip', 'Precip_qc', 'RH', 'RH_qc', 'Qair', 'Qair_qc', 'Tair', 'Tair_qc', 'VPD', 'VPD_qc', 'Wind', 'Wind_qc', 'Psurf', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=63068400.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+IT-Noe_2004-2014_FLUXNET2015_Met.nc file 23 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=3.471534e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+US-Myb_2011-2014_FLUXNET2015_Met.nc file 24 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=1.262286e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+IT-CA3_2012-2013_FLUXNET2015_Met.nc file 25 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=63156600.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+RU-Zot_2003-2003_LaThuile_Met.nc file 26 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'VPD', 'Qair', 'VPD_qc', 'Precip', 'Precip_qc', 'Wind', 'Wind_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'RH', 'CO2air', 'Psurf', 'RH_qc', 'CO2air_qc', 'LWdown_qc', 'Psurf_qc', 'latitude', 'longitude', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=31534200.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+CA-SF2_2003-2005_FLUXNET2015_Met.nc file 27 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=94692600.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+US-MMS_1999-2014_FLUXNET2015_Met.nc file 28 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=5.04918e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+AU-ASM_2011-2017_OzFlux_Met.nc file 29 out of 170
+['x', 'y', 'time', 'CO2air', 'CO2air_qc', 'LWdown', 'LWdown_qc', 'SWdown', 'SWdown_qc', 'Precip', 'Precip_qc', 'RH', 'RH_qc', 'Qair', 'Qair_qc', 'Tair', 'Tair_qc', 'VPD', 'VPD_qc', 'Wind', 'Wind_qc', 'Psurf', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=2.20923e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+AU-Whr_2015-2016_OzFlux_Met.nc file 30 out of 170
+['x', 'y', 'time', 'CO2air', 'CO2air_qc', 'LWdown', 'LWdown_qc', 'SWdown', 'SWdown_qc', 'Precip', 'Precip_qc', 'RH', 'RH_qc', 'Qair', 'Qair_qc', 'Tair', 'Tair_qc', 'VPD', 'VPD_qc', 'Wind', 'Wind_qc', 'Psurf', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=63156600.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+US-Whs_2008-2014_FLUXNET2015_Met.nc file 31 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=2.20923e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+FR-LBr_2003-2008_FLUXNET2015_Met.nc file 32 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=1.89387e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+US-Me4_1996-2000_LaThuile_Met.nc file 33 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'VPD', 'Qair', 'VPD_qc', 'Precip', 'Precip_qc', 'Wind', 'Wind_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'RH', 'CO2air', 'Psurf', 'RH_qc', 'CO2air_qc', 'LWdown_qc', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=1.57851e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+IE-Ca1_2004-2006_LaThuile_Met.nc file 34 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'VPD', 'Qair', 'VPD_qc', 'Precip', 'Precip_qc', 'Wind', 'Wind_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'RH', 'CO2air', 'Psurf', 'RH_qc', 'CO2air_qc', 'LWdown_qc', 'Psurf_qc', 'latitude', 'longitude', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=94692600.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+IT-Non_2002-2002_LaThuile_Met.nc file 35 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'VPD', 'Qair', 'VPD_qc', 'Precip', 'Precip_qc', 'Wind', 'Wind_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'RH', 'CO2air', 'Psurf', 'RH_qc', 'CO2air_qc', 'LWdown_qc', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=31534200.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+AU-Sam_2011-2017_OzFlux_Met.nc file 36 out of 170
+['x', 'y', 'time', 'CO2air', 'CO2air_qc', 'LWdown', 'LWdown_qc', 'SWdown', 'SWdown_qc', 'Precip', 'Precip_qc', 'RH', 'RH_qc', 'Qair', 'Qair_qc', 'Tair', 'Tair_qc', 'VPD', 'VPD_qc', 'Wind', 'Wind_qc', 'Psurf', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=2.20923e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+JP-SMF_2003-2006_FLUXNET2015_Met.nc file 37 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=1.262286e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+BR-Sa3_2001-2003_FLUXNET2015_Met.nc file 38 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=94606200.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+DK-Fou_2005-2005_FLUXNET2015_Met.nc file 39 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=31534200.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+ES-LMa_2004-2006_LaThuile_Met.nc file 40 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'VPD', 'Qair', 'VPD_qc', 'Precip', 'Precip_qc', 'Wind', 'Wind_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'RH', 'CO2air', 'Psurf', 'RH_qc', 'CO2air_qc', 'LWdown_qc', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=94692600.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+US-Bo1_1997-2006_LaThuile_Met.nc file 41 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'VPD', 'Qair', 'VPD_qc', 'Precip', 'Precip_qc', 'Wind', 'Wind_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'RH', 'CO2air', 'Psurf', 'RH_qc', 'CO2air_qc', 'LWdown_qc', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=3.15531e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+US-Ha1_1992-2012_FLUXNET2015_Met.nc file 42 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=6.627708e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+US-SRG_2009-2014_FLUXNET2015_Met.nc file 43 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=1.893006e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+IT-BCi_2005-2010_FLUXNET2015_Met.nc file 44 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=1.893006e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+US-UMB_2000-2014_FLUXNET2015_Met.nc file 45 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=4.73382e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+AU-Gin_2012-2017_OzFlux_Met.nc file 46 out of 170
+['x', 'y', 'time', 'CO2air', 'CO2air_qc', 'LWdown', 'LWdown_qc', 'SWdown', 'SWdown_qc', 'Precip', 'Precip_qc', 'RH', 'RH_qc', 'Qair', 'Qair_qc', 'Tair', 'Tair_qc', 'VPD', 'VPD_qc', 'Wind', 'Wind_qc', 'Psurf', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=1.89387e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+BE-Lon_2005-2014_FLUXNET2015_Met.nc file 47 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=3.15531e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+GF-Guy_2004-2014_FLUXNET2015_Met.nc file 48 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=3.471534e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+RU-Che_2003-2004_FLUXNET2015_Met.nc file 49 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=63156600.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+US-AR2_2010-2011_FLUXNET2015_Met.nc file 50 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=63070200.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+AU-Rob_2014-2017_OzFlux_Met.nc file 51 out of 170
+['x', 'y', 'time', 'CO2air', 'CO2air_qc', 'LWdown', 'LWdown_qc', 'SWdown', 'SWdown_qc', 'Precip', 'Precip_qc', 'RH', 'RH_qc', 'Qair', 'Qair_qc', 'Tair', 'Tair_qc', 'VPD', 'VPD_qc', 'Wind', 'Wind_qc', 'Psurf', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=1.262286e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+US-SRM_2004-2014_FLUXNET2015_Met.nc file 52 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=3.471534e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+US-AR1_2010-2012_FLUXNET2015_Met.nc file 53 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=94692600.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+CA-SF1_2004-2006_FLUXNET2015_Met.nc file 54 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=94692600.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+US-Me2_2002-2014_FLUXNET2015_Met.nc file 55 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=4.102254e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+AT-Neu_2002-2012_FLUXNET2015_Met.nc file 56 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=3.471534e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+CA-NS2_2002-2004_FLUXNET2015_Met.nc file 57 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=94692600.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+UK-PL3_2005-2006_LaThuile_Met.nc file 58 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'VPD', 'Qair', 'VPD_qc', 'Precip', 'Precip_qc', 'Wind', 'Wind_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'RH', 'CO2air', 'Psurf', 'RH_qc', 'CO2air_qc', 'LWdown_qc', 'Psurf_qc', 'latitude', 'longitude', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=63070200.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+US-NR1_1999-2014_FLUXNET2015_Met.nc file 59 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=5.049198e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+UK-Gri_2000-2001_LaThuile_Met.nc file 60 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'VPD', 'Qair', 'VPD_qc', 'Precip', 'Precip_qc', 'Wind', 'Wind_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'RH', 'CO2air', 'Psurf', 'RH_qc', 'CO2air_qc', 'LWdown_qc', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=63156600.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+US-Goo_2004-2006_LaThuile_Met.nc file 61 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'VPD', 'Qair', 'VPD_qc', 'Precip', 'Precip_qc', 'Wind', 'Wind_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'RH', 'CO2air', 'Psurf', 'RH_qc', 'CO2air_qc', 'LWdown_qc', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=94692600.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+US-WCr_1999-2006_FLUXNET2015_Met.nc file 62 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=2.52459e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+AU-DaS_2010-2017_OzFlux_Met.nc file 63 out of 170
+['x', 'y', 'time', 'CO2air', 'CO2air_qc', 'LWdown', 'LWdown_qc', 'SWdown', 'SWdown_qc', 'Precip', 'Precip_qc', 'RH', 'RH_qc', 'Qair', 'Qair_qc', 'Tair', 'Tair_qc', 'VPD', 'VPD_qc', 'Wind', 'Wind_qc', 'Psurf', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=2.52459e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+AU-Cow_2010-2015_OzFlux_Met.nc file 64 out of 170
+['x', 'y', 'time', 'CO2air', 'CO2air_qc', 'LWdown', 'LWdown_qc', 'SWdown', 'SWdown_qc', 'Precip', 'Precip_qc', 'RH', 'RH_qc', 'Qair', 'Qair_qc', 'Tair', 'Tair_qc', 'VPD', 'VPD_qc', 'Wind', 'Wind_qc', 'Psurf', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=1.893006e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+CZ-wet_2007-2014_FLUXNET2015_Met.nc file 65 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=2.52459e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+CA-NS1_2003-2003_FLUXNET2015_Met.nc file 66 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=31534200.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+US-SP2_2000-2004_LaThuile_Met.nc file 67 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'VPD', 'Qair', 'VPD_qc', 'Precip', 'Precip_qc', 'Wind', 'Wind_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'RH', 'CO2air', 'Psurf', 'RH_qc', 'CO2air_qc', 'LWdown_qc', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=1.57851e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+FI-Lom_2007-2009_FLUXNET2015_Met.nc file 68 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=94692600.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+DE-Obe_2008-2014_FLUXNET2015_Met.nc file 69 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=2.20923e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+CN-Cha_2003-2005_FLUXNET2015_Met.nc file 70 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=94692600.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+US-Wkg_2005-2014_FLUXNET2015_Met.nc file 71 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=3.15531e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+AU-Lit_2016-2017_OzFlux_Met.nc file 72 out of 170
+['x', 'y', 'time', 'CO2air', 'CO2air_qc', 'LWdown', 'LWdown_qc', 'SWdown', 'SWdown_qc', 'Precip', 'Precip_qc', 'RH', 'RH_qc', 'Qair', 'Qair_qc', 'Tair', 'Tair_qc', 'VPD', 'VPD_qc', 'Wind', 'Wind_qc', 'Psurf', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=63156600.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+BW-Ma1_2000-2000_LaThuile_Met.nc file 73 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'VPD', 'Qair', 'VPD_qc', 'Precip', 'Precip_qc', 'Wind', 'Wind_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'RH', 'CO2air', 'Psurf', 'RH_qc', 'CO2air_qc', 'LWdown_qc', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=31620600.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+IT-LMa_2003-2004_LaThuile_Met.nc file 74 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'VPD', 'Qair', 'VPD_qc', 'Precip', 'Precip_qc', 'Wind', 'Wind_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'RH', 'CO2air', 'Psurf', 'RH_qc', 'CO2air_qc', 'LWdown_qc', 'Psurf_qc', 'latitude', 'longitude', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=63156600.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+AU-Ync_2011-2017_OzFlux_Met.nc file 75 out of 170
+['x', 'y', 'time', 'CO2air', 'CO2air_qc', 'LWdown', 'LWdown_qc', 'SWdown', 'SWdown_qc', 'Precip', 'Precip_qc', 'RH', 'RH_qc', 'Qair', 'Qair_qc', 'Tair', 'Tair_qc', 'VPD', 'VPD_qc', 'Wind', 'Wind_qc', 'Psurf', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=2.20923e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+IT-Amp_2003-2006_LaThuile_Met.nc file 76 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'VPD', 'Qair', 'VPD_qc', 'Precip', 'Precip_qc', 'Wind', 'Wind_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'RH', 'CO2air', 'Psurf', 'RH_qc', 'CO2air_qc', 'LWdown_qc', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=1.262286e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+ES-ES2_2005-2006_LaThuile_Met.nc file 77 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'VPD', 'Qair', 'VPD_qc', 'Precip', 'Precip_qc', 'Wind', 'Wind_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'RH', 'CO2air', 'Psurf', 'RH_qc', 'CO2air_qc', 'LWdown_qc', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=63070200.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+AU-Dry_2011-2015_OzFlux_Met.nc file 78 out of 170
+['x', 'y', 'time', 'CO2air', 'CO2air_qc', 'LWdown', 'LWdown_qc', 'SWdown', 'SWdown_qc', 'Precip', 'Precip_qc', 'RH', 'RH_qc', 'Qair', 'Qair_qc', 'Tair', 'Tair_qc', 'VPD', 'VPD_qc', 'Wind', 'Wind_qc', 'Psurf', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=1.577646e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+PT-Mi1_2005-2005_LaThuile_Met.nc file 79 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'VPD', 'Qair', 'VPD_qc', 'Precip', 'Precip_qc', 'Wind', 'Wind_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'RH', 'CO2air', 'Psurf', 'RH_qc', 'CO2air_qc', 'LWdown_qc', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=31534200.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+ES-LgS_2007-2007_FLUXNET2015_Met.nc file 80 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=31534200.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+AU-DaP_2009-2012_OzFlux_Met.nc file 81 out of 170
+['x', 'y', 'time', 'CO2air', 'CO2air_qc', 'LWdown', 'LWdown_qc', 'SWdown', 'SWdown_qc', 'Precip', 'Precip_qc', 'RH', 'RH_qc', 'Qair', 'Qair_qc', 'Tair', 'Tair_qc', 'VPD', 'VPD_qc', 'Wind', 'Wind_qc', 'Psurf', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=1.262286e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+CA-NS5_2003-2004_FLUXNET2015_Met.nc file 82 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=63156600.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+CN-HaM_2002-2003_FLUXNET2015_Met.nc file 83 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=63070200.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+AU-Cpr_2011-2017_OzFlux_Met.nc file 84 out of 170
+['x', 'y', 'time', 'CO2air', 'CO2air_qc', 'LWdown', 'LWdown_qc', 'SWdown', 'SWdown_qc', 'Precip', 'Precip_qc', 'RH', 'RH_qc', 'Qair', 'Qair_qc', 'Tair', 'Tair_qc', 'VPD', 'VPD_qc', 'Wind', 'Wind_qc', 'Psurf', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=2.20923e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+CA-Qcu_2002-2006_LaThuile_Met.nc file 85 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'VPD', 'Qair', 'VPD_qc', 'Precip', 'Precip_qc', 'Wind', 'Wind_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'RH', 'CO2air', 'Psurf', 'RH_qc', 'CO2air_qc', 'LWdown_qc', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=1.577646e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+US-Aud_2003-2005_LaThuile_Met.nc file 86 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'VPD', 'Qair', 'VPD_qc', 'Precip', 'Precip_qc', 'Wind', 'Wind_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'RH', 'CO2air', 'Psurf', 'RH_qc', 'CO2air_qc', 'LWdown_qc', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=94692600.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+DK-Sor_1997-2014_FLUXNET2015_Met.nc file 87 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=5.679918e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+DK-ZaH_2000-2013_FLUXNET2015_Met.nc file 88 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=4.418478e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+PT-Mi2_2005-2006_LaThuile_Met.nc file 89 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'VPD', 'Qair', 'VPD_qc', 'Precip', 'Precip_qc', 'Wind', 'Wind_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'RH', 'CO2air', 'Psurf', 'RH_qc', 'CO2air_qc', 'LWdown_qc', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=63070200.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+DE-Bay_1997-1999_LaThuile_Met.nc file 90 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'VPD', 'Qair', 'VPD_qc', 'Precip', 'Precip_qc', 'Wind', 'Wind_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'RH', 'CO2air', 'Psurf', 'RH_qc', 'CO2air_qc', 'LWdown_qc', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=94606200.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+ID-Pag_2002-2003_LaThuile_Met.nc file 91 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'VPD', 'Qair', 'VPD_qc', 'Precip', 'Precip_qc', 'Wind', 'Wind_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'RH', 'CO2air', 'Psurf', 'RH_qc', 'CO2air_qc', 'LWdown_qc', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=63070200.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+IT-Mal_2003-2003_LaThuile_Met.nc file 92 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'VPD', 'Qair', 'VPD_qc', 'Precip', 'Precip_qc', 'Wind', 'Wind_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'RH', 'CO2air', 'Psurf', 'RH_qc', 'CO2air_qc', 'LWdown_qc', 'Psurf_qc', 'latitude', 'longitude', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=31534200.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+CN-Qia_2003-2005_FLUXNET2015_Met.nc file 93 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=94692600.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+IE-Dri_2003-2005_LaThuile_Met.nc file 94 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'VPD', 'Qair', 'VPD_qc', 'Precip', 'Precip_qc', 'Wind', 'Wind_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'RH', 'CO2air', 'Psurf', 'RH_qc', 'CO2air_qc', 'LWdown_qc', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=94692600.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+CN-Cng_2008-2009_FLUXNET2015_Met.nc file 95 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=63156600.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+ES-VDA_2004-2004_LaThuile_Met.nc file 96 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'VPD', 'Qair', 'VPD_qc', 'Precip', 'Precip_qc', 'Wind', 'Wind_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'RH', 'CO2air', 'Psurf', 'RH_qc', 'CO2air_qc', 'LWdown_qc', 'Psurf_qc', 'latitude', 'longitude', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=31620600.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+NL-Hor_2008-2011_FLUXNET2015_Met.nc file 97 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=1.262286e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+BE-Vie_1997-2014_FLUXNET2015_Met.nc file 98 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=5.679918e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+US-SP1_2005-2005_LaThuile_Met.nc file 99 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'VPD', 'Qair', 'VPD_qc', 'Precip', 'Precip_qc', 'Wind', 'Wind_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'RH', 'CO2air', 'Psurf', 'RH_qc', 'CO2air_qc', 'LWdown_qc', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=31534200.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+US-Twt_2010-2014_FLUXNET2015_Met.nc file 100 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=1.577646e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+US-SP3_1999-2004_LaThuile_Met.nc file 101 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'VPD', 'Qair', 'VPD_qc', 'Precip', 'Precip_qc', 'Wind', 'Wind_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'RH', 'CO2air', 'Psurf', 'RH_qc', 'CO2air_qc', 'LWdown_qc', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=1.89387e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+PT-Esp_2002-2004_LaThuile_Met.nc file 102 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'VPD', 'Qair', 'VPD_qc', 'Precip', 'Precip_qc', 'Wind', 'Wind_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'RH', 'CO2air', 'Psurf', 'RH_qc', 'CO2air_qc', 'LWdown_qc', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=94692600.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+DK-Ris_2004-2005_LaThuile_Met.nc file 103 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'VPD', 'Qair', 'VPD_qc', 'Precip', 'Precip_qc', 'Wind', 'Wind_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'RH', 'CO2air', 'Psurf', 'RH_qc', 'CO2air_qc', 'LWdown_qc', 'Psurf_qc', 'latitude', 'longitude', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=63156600.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+US-KS2_2003-2006_FLUXNET2015_Met.nc file 104 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=1.262286e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+US-Bkg_2005-2006_LaThuile_Met.nc file 105 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'VPD', 'Qair', 'VPD_qc', 'Precip', 'Precip_qc', 'Wind', 'Wind_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'RH', 'CO2air', 'Psurf', 'RH_qc', 'CO2air_qc', 'LWdown_qc', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=63070200.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+US-Ho1_1996-2004_LaThuile_Met.nc file 106 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'VPD', 'Qair', 'VPD_qc', 'Precip', 'Precip_qc', 'Wind', 'Wind_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'RH', 'CO2air', 'Psurf', 'RH_qc', 'CO2air_qc', 'LWdown_qc', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=2.840814e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+DE-SfN_2013-2014_FLUXNET2015_Met.nc file 107 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=63070200.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+FI-Hyy_1996-2014_FLUXNET2015_Met.nc file 108 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=5.996142e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+DE-Kli_2005-2014_FLUXNET2015_Met.nc file 109 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=3.15531e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+IT-Lav_2005-2014_FLUXNET2015_Met.nc file 110 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=3.15531e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+AU-Ctr_2010-2017_OzFlux_Met.nc file 111 out of 170
+['x', 'y', 'time', 'CO2air', 'CO2air_qc', 'LWdown', 'LWdown_qc', 'SWdown', 'SWdown_qc', 'Precip', 'Precip_qc', 'RH', 'RH_qc', 'Qair', 'Qair_qc', 'Tair', 'Tair_qc', 'VPD', 'VPD_qc', 'Wind', 'Wind_qc', 'Psurf', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=2.52459e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+DE-Geb_2001-2014_FLUXNET2015_Met.nc file 112 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=4.417614e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+US-FPe_2000-2006_LaThuile_Met.nc file 113 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'VPD', 'Qair', 'VPD_qc', 'Precip', 'Precip_qc', 'Wind', 'Wind_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'RH', 'CO2air', 'Psurf', 'RH_qc', 'CO2air_qc', 'LWdown_qc', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=2.20923e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+CA-NS4_2003-2004_FLUXNET2015_Met.nc file 114 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=63156600.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+HU-Bug_2003-2006_LaThuile_Met.nc file 115 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'VPD', 'Qair', 'VPD_qc', 'Precip', 'Precip_qc', 'Wind', 'Wind_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'RH', 'CO2air', 'Psurf', 'RH_qc', 'CO2air_qc', 'LWdown_qc', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=1.262286e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+DE-Gri_2004-2014_FLUXNET2015_Met.nc file 116 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=3.471534e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+US-Bar_2005-2005_LaThuile_Met.nc file 117 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'VPD', 'Qair', 'VPD_qc', 'Precip', 'Precip_qc', 'Wind', 'Wind_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'RH', 'CO2air', 'Psurf', 'RH_qc', 'CO2air_qc', 'LWdown_qc', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=31534200.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+US-Blo_2000-2006_FLUXNET2015_Met.nc file 118 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=2.20923e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+SD-Dem_2005-2009_FLUXNET2015_Met.nc file 119 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=1.577646e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+RU-Fyo_2003-2014_FLUXNET2015_Met.nc file 120 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=3.786894e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+AU-Rig_2011-2016_OzFlux_Met.nc file 121 out of 170
+['x', 'y', 'time', 'CO2air', 'CO2air_qc', 'LWdown', 'LWdown_qc', 'SWdown', 'SWdown_qc', 'Precip', 'Precip_qc', 'RH', 'RH_qc', 'Qair', 'Qair_qc', 'Tair', 'Tair_qc', 'VPD', 'VPD_qc', 'Wind', 'Wind_qc', 'Psurf', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=1.89387e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+ZM-Mon_2008-2008_FLUXNET2015_Met.nc file 122 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=31620600.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+CA-NS7_2003-2004_FLUXNET2015_Met.nc file 123 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=63156600.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+FR-Lq2_2004-2006_LaThuile_Met.nc file 124 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'VPD', 'Qair', 'VPD_qc', 'Precip', 'Precip_qc', 'Wind', 'Wind_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'RH', 'CO2air', 'Psurf', 'RH_qc', 'CO2air_qc', 'LWdown_qc', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=94692600.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+CN-Din_2003-2005_FLUXNET2015_Met.nc file 125 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=94692600.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+DE-Wet_2002-2006_LaThuile_Met.nc file 126 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'VPD', 'Qair', 'VPD_qc', 'Precip', 'Precip_qc', 'Wind', 'Wind_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'RH', 'CO2air', 'Psurf', 'RH_qc', 'CO2air_qc', 'LWdown_qc', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=1.577646e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+FR-Gri_2005-2013_FLUXNET2015_Met.nc file 127 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=2.83995e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+FR-Hes_1997-2006_LaThuile_Met.nc file 128 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'VPD', 'Qair', 'VPD_qc', 'Precip', 'Precip_qc', 'Wind', 'Wind_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'RH', 'CO2air', 'Psurf', 'RH_qc', 'CO2air_qc', 'LWdown_qc', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=3.15531e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+ZA-Kru_2000-2002_FLUXNET2015_Met.nc file 129 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=94692600.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+IT-Col_2007-2014_FLUXNET2015_Met.nc file 130 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=2.52459e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+IT-SRo_2003-2012_FLUXNET2015_Met.nc file 131 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=3.156174e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+CH-Fru_2007-2014_FLUXNET2015_Met.nc file 132 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=2.52459e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+US-Cop_2002-2003_FLUXNET2015_Met.nc file 133 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=63068400.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+NL-Ca1_2003-2006_LaThuile_Met.nc file 134 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'VPD', 'Qair', 'VPD_qc', 'Precip', 'Precip_qc', 'Wind', 'Wind_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'RH', 'CO2air', 'Psurf', 'RH_qc', 'CO2air_qc', 'LWdown_qc', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=1.262286e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+AU-TTE_2013-2017_OzFlux_Met.nc file 135 out of 170
+['x', 'y', 'time', 'CO2air', 'CO2air_qc', 'LWdown', 'LWdown_qc', 'SWdown', 'SWdown_qc', 'Precip', 'Precip_qc', 'RH', 'RH_qc', 'Qair', 'Qair_qc', 'Tair', 'Tair_qc', 'VPD', 'VPD_qc', 'Wind', 'Wind_qc', 'Psurf', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=1.577646e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+US-PFa_1995-2014_FLUXNET2015_Met.nc file 136 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=6.311484e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+IT-Cpz_2001-2008_FLUXNET2015_Met.nc file 137 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=2.52459e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+CN-Dan_2004-2005_FLUXNET2015_Met.nc file 138 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=63156600.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+IT-CA1_2012-2013_FLUXNET2015_Met.nc file 139 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=63156600.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+US-Prr_2011-2013_FLUXNET2015_Met.nc file 140 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=94692600.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+FI-Kaa_2000-2002_LaThuile_Met.nc file 141 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'VPD', 'Qair', 'VPD_qc', 'Precip', 'Precip_qc', 'Wind', 'Wind_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'RH', 'CO2air', 'Psurf', 'RH_qc', 'CO2air_qc', 'LWdown_qc', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=94692600.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+CA-Qfo_2004-2010_FLUXNET2015_Met.nc file 142 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=2.20923e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+IT-Isp_2013-2014_FLUXNET2015_Met.nc file 143 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=63070200.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+UK-Ham_2004-2004_LaThuile_Met.nc file 144 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'VPD', 'Qair', 'VPD_qc', 'Precip', 'Precip_qc', 'Wind', 'Wind_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'RH', 'CO2air', 'Psurf', 'RH_qc', 'CO2air_qc', 'LWdown_qc', 'Psurf_qc', 'latitude', 'longitude', 'elevation', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=31620600.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+AR-SLu_2010-2010_FLUXNET2015_Met.nc file 145 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=31534200.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+AU-Emr_2012-2013_OzFlux_Met.nc file 146 out of 170
+['x', 'y', 'time', 'CO2air', 'CO2air_qc', 'LWdown', 'LWdown_qc', 'SWdown', 'SWdown_qc', 'Precip', 'Precip_qc', 'RH', 'RH_qc', 'Qair', 'Qair_qc', 'Tair', 'Tair_qc', 'VPD', 'VPD_qc', 'Wind', 'Wind_qc', 'Psurf', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=63156600.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+US-Ne1_2002-2012_FLUXNET2015_Met.nc file 147 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=3.471516e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+US-Ton_2001-2014_FLUXNET2015_Met.nc file 148 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=4.417614e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+DK-Lva_2005-2006_LaThuile_Met.nc file 149 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'VPD', 'Qair', 'VPD_qc', 'Precip', 'Precip_qc', 'Wind', 'Wind_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'RH', 'CO2air', 'Psurf', 'RH_qc', 'CO2air_qc', 'LWdown_qc', 'Psurf_qc', 'latitude', 'longitude', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=63070200.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+US-Me6_2011-2014_FLUXNET2015_Met.nc file 150 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=1.262286e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+CH-Cha_2006-2014_FLUXNET2015_Met.nc file 151 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=2.83995e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+US-Ne2_2002-2012_FLUXNET2015_Met.nc file 152 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=3.471516e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+US-ARM_2003-2012_FLUXNET2015_Met.nc file 153 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=3.156174e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+DE-Meh_2004-2006_LaThuile_Met.nc file 154 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'VPD', 'Qair', 'VPD_qc', 'Precip', 'Precip_qc', 'Wind', 'Wind_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'RH', 'CO2air', 'Psurf', 'RH_qc', 'CO2air_qc', 'LWdown_qc', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=94692600.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+DE-Seh_2008-2010_FLUXNET2015_Met.nc file 155 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=94692600.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+BE-Bra_2004-2014_FLUXNET2015_Met.nc file 156 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=3.471534e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+IT-CA2_2012-2013_FLUXNET2015_Met.nc file 157 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=63156600.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+IT-MBo_2003-2012_FLUXNET2015_Met.nc file 158 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=3.156174e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+IT-SR2_2013-2014_FLUXNET2015_Met.nc file 159 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=63070200.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+ES-ES1_1999-2006_LaThuile_Met.nc file 160 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'VPD', 'Qair', 'VPD_qc', 'Precip', 'Precip_qc', 'Wind', 'Wind_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'RH', 'CO2air', 'Psurf', 'RH_qc', 'CO2air_qc', 'LWdown_qc', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=2.52459e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+CA-SF3_2003-2005_FLUXNET2015_Met.nc file 161 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=94692600.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+US-GLE_2009-2014_FLUXNET2015_Met.nc file 162 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=1.893006e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+US-MOz_2005-2006_LaThuile_Met.nc file 163 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'VPD', 'Qair', 'VPD_qc', 'Precip', 'Precip_qc', 'Wind', 'Wind_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'RH', 'CO2air', 'Psurf', 'RH_qc', 'CO2air_qc', 'LWdown_qc', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=63070200.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+IT-Ro2_2002-2008_FLUXNET2015_Met.nc file 164 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=2.20923e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+IT-Ro1_2002-2006_FLUXNET2015_Met.nc file 165 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=1.577646e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+CA-NS6_2002-2004_FLUXNET2015_Met.nc file 166 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Qair_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=94692600.,
+             mask=False,
+       fill_value=1e+20)]
+
+
+CH-Oe1_2002-2008_FLUXNET2015_Met.nc file 167 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Psurf_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=2.20923e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+US-Los_2000-2008_FLUXNET2015_Met.nc file 168 out of 170
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Psurf_qc', 'Precip_qc', 'Wind_qc', 'RH_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=2.840814e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+AU-Stp_2010-2017_OzFlux_Met.nc file 169 out of 170
+['x', 'y', 'time', 'CO2air', 'CO2air_qc', 'LWdown', 'LWdown_qc', 'SWdown', 'SWdown_qc', 'Precip', 'Precip_qc', 'RH', 'RH_qc', 'Qair', 'Qair_qc', 'Tair', 'Tair_qc', 'VPD', 'VPD_qc', 'Wind', 'Wind_qc', 'Psurf', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI_alternative', 'LAI']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=2.52459e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+AU-Cum_2013-2018_OzFlux_Met.nc file 170 out of 170
+['x', 'y', 'time', 'CO2air', 'CO2air_qc', 'LWdown', 'LWdown_qc', 'SWdown', 'SWdown_qc', 'Precip', 'Precip_qc', 'RH', 'RH_qc', 'Qair', 'Qair_qc', 'Tair', 'Tair_qc', 'VPD', 'VPD_qc', 'Wind', 'Wind_qc', 'Psurf', 'Psurf_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'LAI', 'LAI_alternative']
+[masked_array(data=0.,
+             mask=False,
+       fill_value=1e+20), masked_array(data=1.893006e+08,
+             mask=False,
+       fill_value=1e+20)]
+
+
+Met variables at all sites
+['x', 'y', 'time', 'Tair', 'Tair_qc', 'SWdown', 'SWdown_qc', 'LWdown', 'LWdown_qc', 'VPD', 'Qair', 'VPD_qc', 'Psurf', 'Precip', 'Wind', 'RH', 'CO2air', 'CO2air_qc', 'Psurf_qc', 'Wind_qc', 'latitude', 'longitude', 'elevation', 'IGBP_veg_long', 'LAI_alternative', 'LAI']

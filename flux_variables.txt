@@ -1,0 +1,681 @@
+US-MOz_2005-2006_LaThuile_Flux.nc
+['x', 'y', 'time', 'NEE', 'GPP', 'NEE_qc', 'GPP_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'Qg', 'Qg_qc', 'Rnet', 'Rnet_qc', 'Ustar', 'NEE_uc', 'SWup_qc', 'Ustar_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+US-SP1_2005-2005_LaThuile_Flux.nc
+['x', 'y', 'time', 'NEE', 'GPP', 'NEE_qc', 'GPP_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'Qg', 'Qg_qc', 'Rnet', 'Rnet_qc', 'Ustar', 'NEE_uc', 'SWup_qc', 'Ustar_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+ZM-Mon_2008-2008_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_qc', 'Qle_cor_uc_qc', 'Qh_cor_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'Resp_qc', 'Resp_se_qc', 'GPP_qc', 'GPP_se_qc', 'GPP_DT_qc', 'GPP_DT_se_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+US-Me6_2011-2014_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_qc', 'Qle_cor_uc_qc', 'Qh_cor_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+US-Tw4_2014-2014_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+US-Ne1_2002-2012_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+US-Ne2_2002-2012_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+US-SP3_1999-2004_LaThuile_Flux.nc
+['x', 'y', 'time', 'NEE', 'GPP', 'NEE_qc', 'GPP_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'Qg', 'Qg_qc', 'Rnet', 'Rnet_qc', 'Ustar', 'NEE_uc', 'SWup_qc', 'Ustar_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+US-UMB_2000-2014_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_qc', 'Qle_cor_uc_qc', 'Qh_cor_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+US-Whs_2008-2014_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+US-Ne3_2002-2012_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+IT-CA3_2012-2013_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+RU-Che_2003-2004_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_qc', 'Qle_cor_uc_qc', 'Qh_cor_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+ZA-Kru_2000-2002_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_qc', 'Qle_cor_uc_qc', 'Qh_cor_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+US-PFa_1995-2014_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Qg_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Qle_cor_qc', 'Qle_cor_uc_qc', 'Qh_cor_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'Resp_qc', 'Resp_se_qc', 'GPP_qc', 'GPP_se_qc', 'GPP_DT_qc', 'GPP_DT_se_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+US-Myb_2011-2014_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'Qg_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'Qle_cor_qc', 'Qle_cor_uc_qc', 'Qh_cor_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'Resp_qc', 'Resp_se_qc', 'GPP_qc', 'GPP_se_qc', 'GPP_DT_qc', 'GPP_DT_se_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+US-Syv_2002-2008_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_qc', 'Qle_cor_uc_qc', 'Qh_cor_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'Resp_qc', 'Resp_se_qc', 'GPP_qc', 'GPP_se_qc', 'GPP_DT_qc', 'GPP_DT_se_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+US-SRG_2009-2014_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+AU-Whr_2015-2016_OzFlux_Flux.nc
+['x', 'y', 'time', 'Resp', 'Resp_qc', 'NEE', 'NEE_qc', 'Qle', 'Qle_qc', 'Qg', 'Qg_qc', 'Qh', 'Qh_qc', 'LWup', 'Lwup_qc', 'Rnet', 'Rnet_qc', 'SWup', 'SWup_qc', 'GPP_LL', 'GPP_LL_qc', 'GPP_LL_all', 'GPP_LL_all_qc', 'GPP', 'GPP_qc', 'GPP_SOLO', 'GPP_SOLO_qc', 'Ustar', 'Ustar_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+US-Twt_2010-2014_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+US-SRM_2004-2014_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+US-Ton_2001-2014_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+DK-Fou_2005-2005_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'Qle_cor_qc', 'Qle_cor_uc_qc', 'Qh_cor_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+US-SP2_2000-2004_LaThuile_Flux.nc
+['x', 'y', 'time', 'NEE', 'GPP', 'NEE_qc', 'GPP_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'Qg', 'Qg_qc', 'Rnet', 'Rnet_qc', 'Ustar', 'NEE_uc', 'SWup_qc', 'Ustar_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+ES-ES2_2005-2006_LaThuile_Flux.nc
+['x', 'y', 'time', 'NEE', 'GPP', 'NEE_qc', 'GPP_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'Qg', 'Qg_qc', 'Rnet', 'Rnet_qc', 'Ustar', 'NEE_uc', 'SWup_qc', 'Ustar_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+JP-SMF_2003-2006_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'SWup_qc', 'Qle_cor_qc', 'Qle_cor_uc_qc', 'Qh_cor_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+US-WCr_1999-2006_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'Resp_qc', 'Resp_se_qc', 'GPP_qc', 'GPP_se_qc', 'GPP_DT_qc', 'GPP_DT_se_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+IE-Dri_2003-2005_LaThuile_Flux.nc
+['x', 'y', 'time', 'NEE', 'GPP', 'NEE_qc', 'GPP_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'Qg', 'Qg_qc', 'Rnet', 'Rnet_qc', 'Ustar', 'NEE_uc', 'SWup_qc', 'Ustar_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+AU-GWW_2013-2017_OzFlux_Flux.nc
+['x', 'y', 'time', 'Resp', 'Resp_qc', 'NEE', 'NEE_qc', 'Qle', 'Qle_qc', 'Qg', 'Qg_qc', 'Qh', 'Qh_qc', 'LWup', 'Lwup_qc', 'Rnet', 'Rnet_qc', 'SWup', 'SWup_qc', 'GPP_LL', 'GPP_LL_qc', 'GPP_LL_all', 'GPP_LL_all_qc', 'GPP', 'GPP_qc', 'GPP_SOLO', 'GPP_SOLO_qc', 'Ustar', 'Ustar_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+US-Var_2001-2014_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+ES-LMa_2004-2006_LaThuile_Flux.nc
+['x', 'y', 'time', 'NEE', 'GPP', 'NEE_qc', 'GPP_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'Qg', 'Qg_qc', 'Rnet', 'Rnet_qc', 'Ustar', 'NEE_uc', 'SWup_qc', 'Ustar_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+US-Prr_2011-2013_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+ES-ES1_1999-2006_LaThuile_Flux.nc
+['x', 'y', 'time', 'NEE', 'GPP', 'NEE_qc', 'GPP_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'Qg', 'Qg_qc', 'Rnet', 'Rnet_qc', 'Ustar', 'NEE_uc', 'SWup_qc', 'Ustar_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+DK-Lva_2005-2006_LaThuile_Flux.nc
+['x', 'y', 'time', 'NEE', 'GPP', 'NEE_qc', 'GPP_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'Qg', 'Qg_qc', 'Rnet', 'Rnet_qc', 'Ustar', 'NEE_uc', 'SWup_qc', 'Ustar_qc', 'latitude', 'longitude', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+CN-Cng_2008-2009_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+US-Cop_2002-2003_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'Resp_qc', 'Resp_se_qc', 'GPP_qc', 'GPP_se_qc', 'GPP_DT_qc', 'GPP_DT_se_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+PL-wet_2004-2005_LaThuile_Flux.nc
+['x', 'y', 'time', 'NEE', 'GPP', 'NEE_qc', 'GPP_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'Qg', 'Qg_qc', 'Rnet', 'Rnet_qc', 'Ustar', 'NEE_uc', 'SWup_qc', 'Ustar_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+CN-Dan_2004-2005_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'Qg_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'Qle_cor_qc', 'Qle_cor_uc_qc', 'Qh_cor_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+DK-Ris_2004-2005_LaThuile_Flux.nc
+['x', 'y', 'time', 'NEE', 'GPP', 'NEE_qc', 'GPP_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'Qg_qc', 'Rnet', 'Rnet_qc', 'Ustar', 'NEE_uc', 'SWup_qc', 'Ustar_qc', 'latitude', 'longitude', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+DE-Meh_2004-2006_LaThuile_Flux.nc
+['x', 'y', 'time', 'NEE', 'GPP', 'NEE_qc', 'GPP_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'Qg', 'Qg_qc', 'Rnet', 'Rnet_qc', 'Ustar', 'NEE_uc', 'SWup_qc', 'Ustar_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+US-MMS_1999-2014_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+UK-Gri_2000-2001_LaThuile_Flux.nc
+['x', 'y', 'time', 'NEE', 'GPP', 'NEE_qc', 'GPP_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'Qg', 'Qg_qc', 'Rnet', 'Rnet_qc', 'Ustar', 'NEE_uc', 'SWup_qc', 'Ustar_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+DE-Bay_1997-1999_LaThuile_Flux.nc
+['x', 'y', 'time', 'NEE', 'GPP', 'NEE_qc', 'GPP_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'Qg', 'Qg_qc', 'Rnet', 'Rnet_qc', 'Ustar', 'NEE_uc', 'SWup_qc', 'Ustar_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+AU-TTE_2013-2017_OzFlux_Flux.nc
+['x', 'y', 'time', 'Resp', 'Resp_qc', 'NEE', 'NEE_qc', 'Qle', 'Qle_qc', 'Qg', 'Qg_qc', 'Qh', 'Qh_qc', 'LWup', 'Lwup_qc', 'Rnet', 'Rnet_qc', 'SWup', 'SWup_qc', 'GPP_LL', 'GPP_LL_qc', 'GPP_LL_all', 'GPP_LL_all_qc', 'GPP', 'GPP_qc', 'GPP_SOLO', 'GPP_SOLO_qc', 'Ustar', 'Ustar_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+IT-Ro2_2002-2008_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_qc', 'Qle_cor_uc_qc', 'Qh_cor_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'Resp_qc', 'Resp_se_qc', 'GPP_qc', 'GPP_se_qc', 'GPP_DT_qc', 'GPP_DT_se_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+IT-Lav_2005-2014_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+US-Me4_1996-2000_LaThuile_Flux.nc
+['x', 'y', 'time', 'NEE', 'GPP', 'NEE_qc', 'GPP_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'Qg', 'Qg_qc', 'Rnet', 'Rnet_qc', 'Ustar', 'NEE_uc', 'SWup_qc', 'Ustar_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+US-Wkg_2005-2014_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+NL-Loo_1997-2013_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+ES-VDA_2004-2004_LaThuile_Flux.nc
+['x', 'y', 'time', 'NEE', 'GPP', 'NEE_qc', 'GPP_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'Qg', 'Qg_qc', 'Rnet', 'Rnet_qc', 'Ustar', 'NEE_uc', 'SWup_qc', 'Ustar_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+AR-SLu_2010-2010_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+CA-NS6_2002-2004_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_qc', 'Qle_cor_uc_qc', 'Qh_cor_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+US-AR2_2010-2011_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+AU-Emr_2012-2013_OzFlux_Flux.nc
+['x', 'y', 'time', 'Resp', 'Resp_qc', 'NEE', 'NEE_qc', 'Qle', 'Qle_qc', 'Qg', 'Qg_qc', 'Qh', 'Qh_qc', 'LWup', 'Lwup_qc', 'Rnet', 'Rnet_qc', 'SWup', 'SWup_qc', 'GPP_LL', 'GPP_LL_qc', 'GPP_LL_all', 'GPP_LL_all_qc', 'GPP', 'GPP_qc', 'GPP_SOLO', 'GPP_SOLO_qc', 'Ustar', 'Ustar_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+IT-Non_2002-2002_LaThuile_Flux.nc
+['x', 'y', 'time', 'NEE', 'GPP', 'NEE_qc', 'GPP_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'Qg', 'Qg_qc', 'Rnet', 'Rnet_qc', 'Ustar', 'NEE_uc', 'SWup_qc', 'Ustar_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+IT-CA1_2012-2013_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_qc', 'Qle_cor_uc_qc', 'Qh_cor_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+AU-Dry_2011-2015_OzFlux_Flux.nc
+['x', 'y', 'time', 'Resp', 'Resp_qc', 'NEE', 'NEE_qc', 'Qle', 'Qle_qc', 'Qg', 'Qg_qc', 'Qh', 'Qh_qc', 'LWup', 'Lwup_qc', 'Rnet', 'Rnet_qc', 'SWup', 'SWup_qc', 'GPP_LL', 'GPP_LL_qc', 'GPP_LL_all', 'GPP_LL_all_qc', 'GPP', 'GPP_qc', 'GPP_SOLO', 'GPP_SOLO_qc', 'Ustar', 'Ustar_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+AU-Otw_2009-2010_OzFlux_Flux.nc
+['x', 'y', 'time', 'Resp', 'Resp_qc', 'NEE', 'NEE_qc', 'Qle', 'Qle_qc', 'Qg', 'Qg_qc', 'Qh', 'Qh_qc', 'LWup', 'Lwup_qc', 'Rnet', 'Rnet_qc', 'SWup', 'SWup_qc', 'GPP_LL', 'GPP_LL_qc', 'GPP_LL_all', 'GPP_LL_all_qc', 'GPP', 'GPP_qc', 'GPP_SOLO', 'GPP_SOLO_qc', 'Ustar', 'Ustar_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+NL-Hor_2008-2011_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_qc', 'Qle_cor_uc_qc', 'Qh_cor_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+IT-CA2_2012-2013_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+IT-SRo_2003-2012_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_qc', 'Qle_cor_uc_qc', 'Qh_cor_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+UK-Ham_2004-2004_LaThuile_Flux.nc
+['x', 'y', 'time', 'NEE', 'GPP', 'NEE_qc', 'GPP_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'Qg', 'Qg_qc', 'Rnet', 'Rnet_qc', 'Ustar', 'NEE_uc', 'SWup_qc', 'Ustar_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'elevation', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+SE-Deg_2002-2005_LaThuile_Flux.nc
+['x', 'y', 'time', 'NEE', 'GPP', 'NEE_qc', 'GPP_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'Qg_qc', 'Rnet', 'Rnet_qc', 'Ustar', 'NEE_uc', 'SWup_qc', 'Ustar_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+US-Bar_2005-2005_LaThuile_Flux.nc
+['x', 'y', 'time', 'NEE', 'GPP', 'NEE_qc', 'GPP_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'Qg_qc', 'Rnet', 'Rnet_qc', 'Ustar', 'NEE_uc', 'SWup_qc', 'Ustar_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+DE-Gri_2004-2014_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+CA-NS2_2002-2004_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_qc', 'Qle_cor_uc_qc', 'Qh_cor_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+FI-Lom_2007-2009_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+AU-DaP_2009-2012_OzFlux_Flux.nc
+['x', 'y', 'time', 'Resp', 'Resp_qc', 'NEE', 'NEE_qc', 'Qle', 'Qle_qc', 'Qg', 'Qg_qc', 'Qh', 'Qh_qc', 'LWup', 'Lwup_qc', 'Rnet', 'Rnet_qc', 'SWup', 'SWup_qc', 'GPP_LL', 'GPP_LL_qc', 'GPP_LL_all', 'GPP_LL_all_qc', 'GPP', 'GPP_qc', 'GPP_SOLO', 'GPP_SOLO_qc', 'Ustar', 'Ustar_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+DE-Seh_2008-2010_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+IT-SR2_2013-2014_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+FR-Fon_2005-2013_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'Qg_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'Qle_cor_qc', 'Qle_cor_uc_qc', 'Qh_cor_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+AU-How_2003-2017_OzFlux_Flux.nc
+['x', 'y', 'time', 'Resp', 'Resp_qc', 'NEE', 'NEE_qc', 'Qle', 'Qle_qc', 'Qg', 'Qg_qc', 'Qh', 'Qh_qc', 'LWup', 'Lwup_qc', 'Rnet', 'Rnet_qc', 'SWup', 'SWup_qc', 'GPP_LL', 'GPP_LL_qc', 'GPP_LL_all', 'GPP_LL_all_qc', 'GPP', 'GPP_qc', 'GPP_SOLO', 'GPP_SOLO_qc', 'Ustar', 'Ustar_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+PT-Mi2_2005-2006_LaThuile_Flux.nc
+['x', 'y', 'time', 'NEE', 'GPP', 'NEE_qc', 'GPP_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'Qg', 'Qg_qc', 'Rnet', 'Rnet_qc', 'Ustar', 'NEE_uc', 'SWup_qc', 'Ustar_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+PT-Esp_2002-2004_LaThuile_Flux.nc
+['x', 'y', 'time', 'NEE', 'GPP', 'NEE_qc', 'GPP_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'Qg_qc', 'Rnet', 'Rnet_qc', 'Ustar', 'NEE_uc', 'SWup_qc', 'Ustar_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+CN-Din_2003-2005_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'Qg_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'Qle_cor_qc', 'Qle_cor_uc_qc', 'Qh_cor_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+CH-Cha_2006-2014_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+US-Blo_2000-2006_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'Qle_cor_qc', 'Qle_cor_uc_qc', 'Qh_cor_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+AU-Wrr_2016-2017_OzFlux_Flux.nc
+['x', 'y', 'time', 'Resp', 'Resp_qc', 'NEE', 'NEE_qc', 'Qle', 'Qle_qc', 'Qg', 'Qg_qc', 'Qh', 'Qh_qc', 'LWup', 'Lwup_qc', 'Rnet', 'Rnet_qc', 'SWup', 'SWup_qc', 'GPP_LL', 'GPP_LL_qc', 'GPP_LL_all', 'GPP_LL_all_qc', 'GPP', 'GPP_qc', 'GPP_SOLO', 'GPP_SOLO_qc', 'Ustar', 'Ustar_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+FR-Gri_2005-2013_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+AU-DaS_2010-2017_OzFlux_Flux.nc
+['x', 'y', 'time', 'Resp', 'Resp_qc', 'NEE', 'NEE_qc', 'Qle', 'Qle_qc', 'Qg', 'Qg_qc', 'Qh', 'Qh_qc', 'LWup', 'Lwup_qc', 'Rnet', 'Rnet_qc', 'SWup', 'SWup_qc', 'GPP_LL', 'GPP_LL_qc', 'GPP_LL_all', 'GPP_LL_all_qc', 'GPP', 'GPP_qc', 'GPP_SOLO', 'GPP_SOLO_qc', 'Ustar', 'Ustar_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+FI-Kaa_2000-2002_LaThuile_Flux.nc
+['x', 'y', 'time', 'NEE', 'GPP', 'NEE_qc', 'GPP_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'Qg', 'Qg_qc', 'Rnet', 'Rnet_qc', 'Ustar', 'NEE_uc', 'SWup_qc', 'Ustar_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+CN-Cha_2003-2005_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'Qg_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'Qle_cor_qc', 'Qle_cor_uc_qc', 'Qh_cor_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+IT-Col_2007-2014_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+AU-Cum_2013-2018_OzFlux_Flux.nc
+['x', 'y', 'time', 'Resp', 'Resp_qc', 'NEE', 'NEE_qc', 'Qle', 'Qle_qc', 'Qg', 'Qg_qc', 'Qh', 'Qh_qc', 'LWup', 'Lwup_qc', 'Rnet', 'Rnet_qc', 'SWup', 'SWup_qc', 'GPP_LL', 'GPP_LL_qc', 'GPP_LL_all', 'GPP_LL_all_qc', 'GPP', 'GPP_qc', 'GPP_SOLO', 'GPP_SOLO_qc', 'Ustar', 'Ustar_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+CA-NS5_2003-2004_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_qc', 'Qle_cor_uc_qc', 'Qh_cor_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+CA-NS1_2003-2003_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_qc', 'Qle_cor_uc_qc', 'Qh_cor_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'Resp_qc', 'Resp_se_qc', 'GPP_qc', 'GPP_se_qc', 'GPP_DT_qc', 'GPP_DT_se_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+DK-Sor_1997-2014_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_qc', 'Qle_cor_uc_qc', 'Qh_cor_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+US-NR1_1999-2014_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'Resp_qc', 'Resp_se_qc', 'GPP_qc', 'GPP_se_qc', 'GPP_DT_qc', 'GPP_DT_se_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+CA-Qcu_2002-2006_LaThuile_Flux.nc
+['x', 'y', 'time', 'NEE', 'GPP', 'NEE_qc', 'GPP_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'Qg', 'Qg_qc', 'Rnet', 'Rnet_qc', 'Ustar', 'NEE_uc', 'SWup_qc', 'Ustar_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+FR-Pue_2000-2014_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_qc', 'Qle_cor_uc_qc', 'Qh_cor_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+US-Aud_2003-2005_LaThuile_Flux.nc
+['x', 'y', 'time', 'NEE', 'GPP', 'NEE_qc', 'GPP_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'Qg', 'Qg_qc', 'Rnet', 'Rnet_qc', 'Ustar', 'NEE_uc', 'SWup_qc', 'Ustar_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+BW-Ma1_2000-2000_LaThuile_Flux.nc
+['x', 'y', 'time', 'NEE', 'GPP', 'NEE_qc', 'GPP_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'Qg', 'Qg_qc', 'Rnet', 'Rnet_qc', 'Ustar', 'NEE_uc', 'SWup_qc', 'Ustar_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+AU-Ctr_2010-2017_OzFlux_Flux.nc
+['x', 'y', 'time', 'Resp', 'Resp_qc', 'NEE', 'NEE_qc', 'Qle', 'Qle_qc', 'Qg', 'Qg_qc', 'Qh', 'Qh_qc', 'LWup', 'Lwup_qc', 'Rnet', 'Rnet_qc', 'SWup', 'SWup_qc', 'GPP_LL', 'GPP_LL_qc', 'GPP_LL_all', 'GPP_LL_all_qc', 'GPP', 'GPP_qc', 'GPP_SOLO', 'GPP_SOLO_qc', 'Ustar', 'Ustar_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+IT-Isp_2013-2014_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+CN-HaM_2002-2003_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+CH-Dav_1997-2014_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_qc', 'Qle_cor_uc_qc', 'Qh_cor_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+US-Bkg_2005-2006_LaThuile_Flux.nc
+['x', 'y', 'time', 'NEE', 'GPP', 'NEE_qc', 'GPP_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'Qg', 'Qg_qc', 'Rnet', 'Rnet_qc', 'Ustar', 'NEE_uc', 'SWup_qc', 'Ustar_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+FR-Lq2_2004-2006_LaThuile_Flux.nc
+['x', 'y', 'time', 'NEE', 'GPP', 'NEE_qc', 'GPP_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'Qg', 'Qg_qc', 'Rnet', 'Rnet_qc', 'Ustar', 'NEE_uc', 'SWup_qc', 'Ustar_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+IT-LMa_2003-2004_LaThuile_Flux.nc
+['x', 'y', 'time', 'NEE', 'GPP', 'NEE_qc', 'GPP_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'Qg', 'Qg_qc', 'Rnet', 'Rnet_qc', 'Ustar', 'NEE_uc', 'SWup_qc', 'Ustar_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+DE-Obe_2008-2014_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+IT-Ro1_2002-2006_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_qc', 'Qle_cor_uc_qc', 'Qh_cor_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+AU-Tum_2002-2017_OzFlux_Flux.nc
+['x', 'y', 'time', 'Resp', 'Resp_qc', 'NEE', 'NEE_qc', 'Qle', 'Qle_qc', 'Qg', 'Qg_qc', 'Qh', 'Qh_qc', 'LWup', 'Lwup_qc', 'Rnet', 'Rnet_qc', 'SWup', 'SWup_qc', 'GPP_LL', 'GPP_LL_qc', 'GPP_LL_all', 'GPP_LL_all_qc', 'GPP', 'GPP_qc', 'GPP_SOLO', 'GPP_SOLO_qc', 'Ustar', 'Ustar_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+UK-PL3_2005-2006_LaThuile_Flux.nc
+['x', 'y', 'time', 'NEE', 'GPP', 'NEE_qc', 'GPP_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'Qg_qc', 'Rnet', 'Rnet_qc', 'Ustar', 'NEE_uc', 'SWup_qc', 'Ustar_qc', 'latitude', 'longitude', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+IT-Cpz_2001-2008_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'Resp_qc', 'Resp_se_qc', 'GPP_qc', 'GPP_se_qc', 'GPP_DT_qc', 'GPP_DT_se_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+ID-Pag_2002-2003_LaThuile_Flux.nc
+['x', 'y', 'time', 'NEE', 'GPP', 'NEE_qc', 'GPP_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'Qg_qc', 'Rnet', 'Rnet_qc', 'Ustar', 'NEE_uc', 'SWup_qc', 'Ustar_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+DK-ZaH_2000-2013_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_qc', 'Qle_cor_uc_qc', 'Qh_cor_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+US-ARM_2003-2012_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+US-FPe_2000-2006_LaThuile_Flux.nc
+['x', 'y', 'time', 'NEE', 'GPP', 'NEE_qc', 'GPP_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'Qg', 'Qg_qc', 'Rnet', 'Rnet_qc', 'Ustar', 'NEE_uc', 'SWup_qc', 'Ustar_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+IT-Noe_2004-2014_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+US-AR1_2010-2012_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+AU-Rob_2014-2017_OzFlux_Flux.nc
+['x', 'y', 'time', 'Resp', 'Resp_qc', 'NEE', 'NEE_qc', 'Qle', 'Qle_qc', 'Qg', 'Qg_qc', 'Qh', 'Qh_qc', 'LWup', 'Lwup_qc', 'Rnet', 'Rnet_qc', 'SWup', 'SWup_qc', 'GPP_LL', 'GPP_LL_qc', 'GPP_LL_all', 'GPP_LL_all_qc', 'GPP', 'GPP_qc', 'GPP_SOLO', 'GPP_SOLO_qc', 'Ustar', 'Ustar_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+DE-Wet_2002-2006_LaThuile_Flux.nc
+['x', 'y', 'time', 'NEE', 'GPP', 'NEE_qc', 'GPP_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'Qg', 'Qg_qc', 'Rnet', 'Rnet_qc', 'Ustar', 'NEE_uc', 'SWup_qc', 'Ustar_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+FR-LBr_2003-2008_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+IT-PT1_2003-2004_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+CA-Qfo_2004-2010_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+PT-Mi1_2005-2005_LaThuile_Flux.nc
+['x', 'y', 'time', 'NEE', 'GPP', 'NEE_qc', 'GPP_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'Qg_qc', 'Rnet', 'Rnet_qc', 'Ustar', 'NEE_uc', 'SWup_qc', 'Ustar_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+US-Ha1_1992-2012_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'Qg_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'Qle_cor_qc', 'Qle_cor_uc_qc', 'Qh_cor_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+SD-Dem_2005-2009_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'Qle_cor_qc', 'Qle_cor_uc_qc', 'Qh_cor_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'Resp_qc', 'Resp_se_qc', 'GPP_qc', 'GPP_se_qc', 'GPP_DT_qc', 'GPP_DT_se_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+CH-Fru_2007-2014_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+BR-Sa3_2001-2003_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+CA-NS7_2003-2004_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_qc', 'Qle_cor_uc_qc', 'Qh_cor_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+NL-Ca1_2003-2006_LaThuile_Flux.nc
+['x', 'y', 'time', 'NEE', 'GPP', 'NEE_qc', 'GPP_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'Qg', 'Qg_qc', 'Rnet', 'Rnet_qc', 'Ustar', 'NEE_uc', 'SWup_qc', 'Ustar_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+IT-Mal_2003-2003_LaThuile_Flux.nc
+['x', 'y', 'time', 'NEE', 'GPP', 'NEE_qc', 'GPP_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'Qg', 'Qg_qc', 'Rnet', 'Rnet_qc', 'Ustar', 'NEE_uc', 'SWup_qc', 'Ustar_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+BE-Lon_2005-2014_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+AU-Gin_2012-2017_OzFlux_Flux.nc
+['x', 'y', 'time', 'Resp', 'Resp_qc', 'NEE', 'NEE_qc', 'Qle', 'Qle_qc', 'Qg', 'Qg_qc', 'Qh', 'Qh_qc', 'LWup', 'Lwup_qc', 'Rnet', 'Rnet_qc', 'SWup', 'SWup_qc', 'GPP_LL', 'GPP_LL_qc', 'GPP_LL_all', 'GPP_LL_all_qc', 'GPP', 'GPP_qc', 'GPP_SOLO', 'GPP_SOLO_qc', 'Ustar', 'Ustar_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+FI-Sod_2008-2014_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'Qle_cor_qc', 'Qle_cor_uc_qc', 'Qh_cor_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+AU-Ync_2011-2017_OzFlux_Flux.nc
+['x', 'y', 'time', 'Resp', 'Resp_qc', 'NEE', 'NEE_qc', 'Qle', 'Qle_qc', 'Qg', 'Qg_qc', 'Qh', 'Qh_qc', 'LWup', 'Lwup_qc', 'Rnet', 'Rnet_qc', 'SWup', 'SWup_qc', 'GPP_LL', 'GPP_LL_qc', 'GPP_LL_all', 'GPP_LL_all_qc', 'GPP', 'GPP_qc', 'GPP_SOLO', 'GPP_SOLO_qc', 'Ustar', 'Ustar_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+ES-LgS_2007-2007_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+DE-Tha_1998-2014_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+US-Goo_2004-2006_LaThuile_Flux.nc
+['x', 'y', 'time', 'NEE', 'GPP', 'NEE_qc', 'GPP_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'Qg', 'Qg_qc', 'Rnet', 'Rnet_qc', 'Ustar', 'NEE_uc', 'SWup_qc', 'Ustar_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+IT-Amp_2003-2006_LaThuile_Flux.nc
+['x', 'y', 'time', 'NEE', 'GPP', 'NEE_qc', 'GPP_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'Qg', 'Qg_qc', 'Rnet', 'Rnet_qc', 'Ustar', 'NEE_uc', 'SWup_qc', 'Ustar_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+IE-Ca1_2004-2006_LaThuile_Flux.nc
+['x', 'y', 'time', 'NEE', 'GPP', 'NEE_qc', 'GPP_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'Qg', 'Qg_qc', 'Rnet', 'Rnet_qc', 'Ustar', 'NEE_uc', 'SWup_qc', 'Ustar_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+IT-Ren_2010-2013_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_qc', 'Qle_cor_uc_qc', 'Qh_cor_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'Resp_qc', 'Resp_se_qc', 'GPP_qc', 'GPP_se_qc', 'GPP_DT_qc', 'GPP_DT_se_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+AU-ASM_2011-2017_OzFlux_Flux.nc
+['x', 'y', 'time', 'Resp', 'Resp_qc', 'NEE', 'NEE_qc', 'Qle', 'Qle_qc', 'Qg', 'Qg_qc', 'Qh', 'Qh_qc', 'LWup', 'Lwup_qc', 'Rnet', 'Rnet_qc', 'SWup', 'SWup_qc', 'GPP_LL', 'GPP_LL_qc', 'GPP_LL_all', 'GPP_LL_all_qc', 'GPP', 'GPP_qc', 'GPP_SOLO', 'GPP_SOLO_qc', 'Ustar', 'Ustar_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+CA-SF3_2003-2005_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'Resp_qc', 'Resp_se_qc', 'GPP_qc', 'GPP_se_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+IT-MBo_2003-2012_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+AT-Neu_2002-2012_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+HU-Bug_2003-2006_LaThuile_Flux.nc
+['x', 'y', 'time', 'NEE', 'GPP', 'NEE_qc', 'GPP_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'Qg', 'Qg_qc', 'Rnet', 'Rnet_qc', 'Ustar', 'NEE_uc', 'SWup_qc', 'Ustar_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+US-Bo1_1997-2006_LaThuile_Flux.nc
+['x', 'y', 'time', 'NEE', 'GPP', 'NEE_qc', 'GPP_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'Qg', 'Qg_qc', 'Rnet', 'Rnet_qc', 'Ustar', 'NEE_uc', 'SWup_qc', 'Ustar_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+AU-Rig_2011-2016_OzFlux_Flux.nc
+['x', 'y', 'time', 'Resp', 'Resp_qc', 'NEE', 'NEE_qc', 'Qle', 'Qle_qc', 'Qg', 'Qg_qc', 'Qh', 'Qh_qc', 'LWup', 'Lwup_qc', 'Rnet', 'Rnet_qc', 'SWup', 'SWup_qc', 'GPP_LL', 'GPP_LL_qc', 'GPP_LL_all', 'GPP_LL_all_qc', 'GPP', 'GPP_qc', 'GPP_SOLO', 'GPP_SOLO_qc', 'Ustar', 'Ustar_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+IT-BCi_2005-2010_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_qc', 'Qle_cor_uc_qc', 'Qh_cor_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+FI-Hyy_1996-2014_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_qc', 'Qle_cor_uc_qc', 'Qh_cor_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+AU-Lit_2016-2017_OzFlux_Flux.nc
+['x', 'y', 'time', 'Resp', 'Resp_qc', 'NEE', 'NEE_qc', 'Qle', 'Qle_qc', 'Qg', 'Qg_qc', 'Qh', 'Qh_qc', 'LWup', 'Lwup_qc', 'Rnet', 'Rnet_qc', 'SWup', 'SWup_qc', 'GPP_LL', 'GPP_LL_qc', 'GPP_LL_all', 'GPP_LL_all_qc', 'GPP', 'GPP_qc', 'GPP_SOLO', 'GPP_SOLO_qc', 'Ustar', 'Ustar_qc', 'latitude', 'longitude', 'reference_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+CN-Qia_2003-2005_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'Qg_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'Qle_cor_qc', 'Qle_cor_uc_qc', 'Qh_cor_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+US-KS2_2003-2006_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+AU-Stp_2010-2017_OzFlux_Flux.nc
+['x', 'y', 'time', 'Resp', 'Resp_qc', 'NEE', 'NEE_qc', 'Qle', 'Qle_qc', 'Qg', 'Qg_qc', 'Qh', 'Qh_qc', 'LWup', 'Lwup_qc', 'Rnet', 'Rnet_qc', 'SWup', 'SWup_qc', 'GPP_LL', 'GPP_LL_qc', 'GPP_LL_all', 'GPP_LL_all_qc', 'GPP', 'GPP_qc', 'GPP_SOLO', 'GPP_SOLO_qc', 'Ustar', 'Ustar_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+FR-Lq1_2004-2006_LaThuile_Flux.nc
+['x', 'y', 'time', 'NEE', 'GPP', 'NEE_qc', 'GPP_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'Qg', 'Qg_qc', 'Rnet', 'Rnet_qc', 'Ustar', 'NEE_uc', 'SWup_qc', 'Ustar_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+DE-SfN_2013-2014_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+AU-Cow_2010-2015_OzFlux_Flux.nc
+['x', 'y', 'time', 'Resp', 'Resp_qc', 'NEE', 'NEE_qc', 'Qle', 'Qle_qc', 'Qg', 'Qg_qc', 'Qh', 'Qh_qc', 'LWup', 'Lwup_qc', 'Rnet', 'Rnet_qc', 'SWup', 'SWup_qc', 'GPP_LL', 'GPP_LL_qc', 'GPP_LL_all', 'GPP_LL_all_qc', 'GPP', 'GPP_qc', 'GPP_SOLO', 'GPP_SOLO_qc', 'Ustar', 'Ustar_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+AU-Sam_2011-2017_OzFlux_Flux.nc
+['x', 'y', 'time', 'Resp', 'Resp_qc', 'NEE', 'NEE_qc', 'Qle', 'Qle_qc', 'Qg', 'Qg_qc', 'Qh', 'Qh_qc', 'LWup', 'Lwup_qc', 'Rnet', 'Rnet_qc', 'SWup', 'SWup_qc', 'GPP_LL', 'GPP_LL_qc', 'GPP_LL_all', 'GPP_LL_all_qc', 'GPP', 'GPP_qc', 'GPP_SOLO', 'GPP_SOLO_qc', 'Ustar', 'Ustar_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+RU-Zot_2003-2003_LaThuile_Flux.nc
+['x', 'y', 'time', 'NEE', 'GPP', 'NEE_qc', 'GPP_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'Qg', 'Qg_qc', 'Rnet', 'Rnet_qc', 'Ustar', 'NEE_uc', 'SWup_qc', 'Ustar_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+CA-SF1_2004-2006_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+CH-Oe1_2002-2008_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_qc', 'Qle_cor_uc_qc', 'Qh_cor_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+FR-Hes_1997-2006_LaThuile_Flux.nc
+['x', 'y', 'time', 'NEE', 'GPP', 'NEE_qc', 'GPP_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'Qg', 'Qg_qc', 'Rnet', 'Rnet_qc', 'Ustar', 'NEE_uc', 'SWup_qc', 'Ustar_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+BE-Vie_1997-2014_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+AU-Cpr_2011-2017_OzFlux_Flux.nc
+['x', 'y', 'time', 'Resp', 'Resp_qc', 'NEE', 'NEE_qc', 'Qle', 'Qle_qc', 'Qg', 'Qg_qc', 'Qh', 'Qh_qc', 'LWup', 'Lwup_qc', 'Rnet', 'Rnet_qc', 'SWup', 'SWup_qc', 'GPP_LL', 'GPP_LL_qc', 'GPP_LL_all', 'GPP_LL_all_qc', 'GPP', 'GPP_qc', 'GPP_SOLO', 'GPP_SOLO_qc', 'Ustar', 'Ustar_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+BE-Bra_2004-2014_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'Resp_qc', 'Resp_se_qc', 'GPP_qc', 'GPP_se_qc', 'GPP_DT_qc', 'GPP_DT_se_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+RU-Fyo_2003-2014_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+CZ-wet_2007-2014_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_qc', 'Qle_cor_uc_qc', 'Qh_cor_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+DE-Geb_2001-2014_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+DE-Hai_2000-2012_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_qc', 'Qle_cor_uc_qc', 'Qh_cor_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+US-Me2_2002-2014_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+CA-SF2_2003-2005_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_uc_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+CN-Du2_2007-2008_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'Qle_cor_qc', 'Qle_cor_uc_qc', 'Qh_cor_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'Resp_qc', 'Resp_se_qc', 'GPP_qc', 'GPP_se_qc', 'GPP_DT_qc', 'GPP_DT_se_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+US-Ho1_1996-2004_LaThuile_Flux.nc
+['x', 'y', 'time', 'NEE', 'GPP', 'NEE_qc', 'GPP_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'Qg', 'Qg_qc', 'Rnet', 'Rnet_qc', 'Ustar', 'NEE_uc', 'SWup_qc', 'Ustar_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long', 'Qle_cor', 'Qh_cor']
+
+
+US-GLE_2009-2014_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_qc', 'Qle_cor_uc_qc', 'Qh_cor_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'Resp_qc', 'Resp_se_qc', 'GPP_qc', 'GPP_se_qc', 'GPP_DT_qc', 'GPP_DT_se_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+DE-Kli_2005-2014_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_qc', 'Qle_cor_uc_qc', 'Qh_cor_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+GF-Guy_2004-2014_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_qc', 'Qle_cor_uc_qc', 'Qh_cor_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+US-Los_2000-2008_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg', 'Qg_qc', 'Qle', 'Qle_qc', 'Qle_cor', 'Qle_cor_uc', 'Qh', 'Qh_qc', 'Qh_cor', 'Qh_cor_uc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_qc', 'Qle_cor_uc_qc', 'Qh_cor_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'Resp_qc', 'Resp_se_qc', 'GPP_qc', 'GPP_se_qc', 'GPP_DT_qc', 'GPP_DT_se_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+
+CA-NS4_2003-2004_FLUXNET2015_Flux.nc
+['x', 'y', 'time', 'Ustar', 'Rnet', 'SWup', 'Qg_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'NEE', 'NEE_qc', 'NEE_uc', 'Resp', 'Resp_se', 'GPP', 'GPP_se', 'GPP_DT', 'GPP_DT_se', 'Ustar_qc', 'Rnet_qc', 'SWup_qc', 'Qle_cor_qc', 'Qle_cor_uc_qc', 'Qh_cor_qc', 'Qh_cor_uc_qc', 'NEE_uc_qc', 'latitude', 'longitude', 'reference_height', 'canopy_height', 'elevation', 'IGBP_veg_short', 'IGBP_veg_long']
+
+Flux variables at all sites
+['x', 'y', 'time', 'NEE', 'GPP', 'NEE_qc', 'Qle', 'Qle_qc', 'Qh', 'Qh_qc', 'Qg_qc', 'Ustar', 'Ustar_qc', 'latitude', 'longitude', 'elevation', 'IGBP_veg_long']
