@@ -28,6 +28,7 @@ for filepath in glob.iglob(flux_directory+'*.nc'):
     if 'reference_height' not in d.variables.keys() or 'canopy_height' not in d.variables.keys():
         print(flux_file)
         print(d.variables.keys())
+        print(d)
         print('\n')
     d.close()
 

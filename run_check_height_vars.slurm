@@ -8,4 +8,4 @@
 
 # memory
 ulimit -s unlimited
-python print_no_height.py
+python -u print_no_height.py
