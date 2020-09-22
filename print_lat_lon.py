@@ -14,6 +14,4 @@ for filepath in glob.iglob(flux_directory+'*.nc'):
     flux_file = filepath.split('/')[-1]
     d = netCDF4.Dataset(filepath, "r", format="NETCDF4")
     print("{}, {}, {}".format(flux_file, d.variables['longitude'][:],d.variables['latitude'][:]))
-    print(d.variables['Qair'])
     d.close()
-    break
